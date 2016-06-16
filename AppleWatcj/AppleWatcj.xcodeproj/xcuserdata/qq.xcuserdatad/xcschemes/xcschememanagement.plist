@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AppleWat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>AppleWatcj WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>AppleWatcj.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Notification - AppleWat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Notification - AppleWatcj WatchKit 1 App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>12F3C8431CE9B72200920A69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12F3C85F1CE9B72200920A69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12F3C86A1CE9B72200920A69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12F3C87E1CE9B76700920A69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12F3C8F71CE9CB8D00920A69</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
